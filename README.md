@@ -1,7 +1,5 @@
-# Tnseq
-Rudner lab Tn-seq analysis pipeline
+# Mariner TN-Seq pipeline by Joel Sher
 
-Mariner TN-Seq pipeline by Joel Sher
 Updated 1_22_19
 
 Instructions for using pipeline.  If this is your first time start here, if not skip to step 3
