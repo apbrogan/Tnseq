@@ -67,4 +67,4 @@ a.	Open Terminal (open spotlight search and type terminal)
 b.	Type “cd” and a space.  Then drag the top level folder into the terminal.  The file path leading to the terminal should appear
 i.	i.e. “cd /Users/jsher/Desktop/Generic_TN/Ecoli”
 c.	type “Bash Universal_Shell.sh” and hit enter
-![image](https://user-images.githubusercontent.com/131305345/233192858-1b47b6ee-c67f-45d1-a0a4-cf5cbb493132.png)
+
