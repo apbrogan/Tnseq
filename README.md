@@ -1,6 +1,6 @@
 # Mariner TN-Seq pipeline by Joel Sher
 
-Updated 1_22_19
+Updated 1_22_19 
 
 Instructions for using pipeline.  If this is your first time start here, if not skip to step 3
 
